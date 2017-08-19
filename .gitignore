@@ -1,5 +1,9 @@
-Library/
-Temp/
-*.meta
-*.asset
+Library
+Temp
+obj
+Builds
+*.unityproj
 *.userprefs
+*.sln
+*.csproj
+/.vs/MultiplayerVR/v14/*.suo
